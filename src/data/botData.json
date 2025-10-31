@@ -1,0 +1,118 @@
+{
+  "greetings": [
+    "Hello! I'm Nyash's AI Twin 🤖 Ask me anything about Nachiket Chavan!",
+    "Hey there! 👋 I'm here to answer your questions about Nyash (Nachiket).",
+    "Hi! I'm Nachiket's digital assistant. What would you like to know about him?",
+    "Namaste! 🙏 I can help you learn about Nachiket's skills, projects, and journey!"
+  ],
+  "responses": {
+    "who are you": {
+      "answer": "I'm Nyash's AI Twin! I'm here to help you learn about Nachiket Chavan, his skills, projects, journey, and aspirations. Feel free to ask me anything about him!",
+      "keywords": ["who", "you", "are you", "what are you", "ai", "chatbot", "bot"]
+    },
+    "who is nyash": {
+      "answer": "Nachiket Chavan (also known as Nyash) is a BCA student at Sharanbasava University passionate about Data Science and Full-Stack Development. He's worked with C, Python, JavaScript, TypeScript, and SQL, and is constantly exploring how data and AI can power smarter systems. His motto: 'Keep building. Keep learning. Keep evolving — even when no one's watching.' 🚀",
+      "keywords": ["who is nyash", "who is nachiket", "tell me about", "about nyash", "about nachiket", "nachiket chavan", "who he", "who's he", "about him", "tell me about him", "who is he", "nachiket", "who are nyash", "who are nachiket", "tell about nachiket", "tell about nyash"]
+    },
+    "education": {
+      "answer": "Nachiket is currently pursuing BCA (Bachelor of Computer Applications) at Sharanbasava University. His journey:\n\n📘 2021: Completed SSLC\n📐 2021-2023: Completed PUC Science\n💻 2024-Present: BCA at Sharanbasava University\n\nHe's certified in MERN Stack, C & Java Programming, Data Science, and Backend Development (PW Skills).",
+      "keywords": ["education", "study", "student", "bca", "degree", "college", "university", "sharanbasava", "school"]
+    },
+    "skills": {
+      "answer": "Nachiket has diverse technical skills:\n\n💻 Languages: C, Python, Java, JavaScript, TypeScript, SQL\n🎨 Frontend: React, React Native (Expo), HTML, CSS\n⚙️ Backend: Node.js, Express.js, MySQL, MongoDB\n📊 Data Science: Python (NumPy, Pandas, Matplotlib), Jupyter Notebook, SQL\n🛠️ Tools: VS Code, GitHub, Postman, Firebase, Cloudinary, Figma, Canva\n\nHe's also skilled in API integration, authentication systems, and responsive UI development!",
+      "keywords": ["skills", "technologies", "tech stack", "what do you know", "programming languages", "frameworks", "tools"]
+    },
+    "data science": {
+      "answer": "Data Science is Nachiket's PRIMARY passion! 📊\n\nHe's learning:\n• Python (NumPy, Pandas, Matplotlib)\n• Data visualization & analysis\n• Dataset cleaning and exploration\n• SQL for data analysis\n• Jupyter Notebook for experiments\n\nHis goal: Become a Data Scientist capable of handling real-world datasets and extracting insights through AI and machine learning!",
+      "keywords": ["data science", "data", "analysis", "pandas", "numpy", "matplotlib", "visualization", "dataset", "machine learning", "ml", "ai"]
+    },
+    "projects": {
+      "answer": "Nachiket has worked on some amazing projects:\n\n🤖 AI-Powered Portfolio (React + Tailwind + Framer Motion) - This website with AI chatbot!\n📱 Full-Stack Mobile App (React Native + Node.js + MySQL) - User management & authentication with Cloudinary\n🏥 Digital Health Record System (SIH 2025) - For migrant workers in Kerala\n📊 Data Science Projects - Data visualization & analysis with Pandas/Matplotlib\n💻 Competitive Programming - Algorithms in C, Java, TypeScript\n🛒 E-Commerce Backend - Secure transactions & API development\n\nCheck the Projects section for more details!",
+      "keywords": ["projects", "work", "portfolio", "built", "created", "made", "developed", "apps", "applications"]
+    },
+    "hackathon": {
+      "answer": "Nachiket participated in Smart India Hackathon 2025! 🏆\n\nProject: Digital Health Record Management System for migrant workers in Kerala\n\nThis was a team collaboration focusing on healthcare accessibility, data security, and solving real-world problems. It showcases his ability to work on socially impactful tech solutions!",
+      "keywords": ["hackathon", "sih", "smart india", "competition", "kerala", "health record", "migrant"]
+    },
+    "mobile app": {
+      "answer": "Nachiket built a Full-Stack Mobile App! 📱\n\nTech Stack: React Native (Expo), Node.js, MySQL, Cloudinary\n\nFeatures:\n✅ User management system\n✅ Secure authentication & login\n✅ Document storage with Cloudinary\n✅ Complete REST API setup\n✅ Responsive design\n\nThis project demonstrates his full-stack capabilities from frontend to backend!",
+      "keywords": ["mobile", "app", "react native", "expo", "full stack", "full-stack", "authentication"]
+    },
+    "achievements": {
+      "answer": "Nachiket's notable achievements:\n\n🥇 Smart India Hackathon 2025 Participant\n📜 MERN Stack Web Development Certified\n📜 Programming in C and Java Certified\n📜 Data Science Fundamentals Certified\n💻 Backend Development Course (PW Skills)\n🧠 Competitive Programming participant\n⚙️ Built production-ready mobile app\n\nHe's constantly achieving new milestones!",
+      "keywords": ["achievements", "accomplishments", "awards", "certificates", "certification", "certified", "wins"]
+    },
+    "goals": {
+      "answer": "Nachiket's Career Goals:\n\n🎯 PRIMARY: Become a Data Scientist capable of handling real-world datasets and extracting insights through AI and machine learning.\n\n🎯 SECONDARY: Become a Full-Stack Developer skilled in scalable backends and interactive frontends.\n\n🎯 VISION: Build AI-powered platforms that make learning, communication, and automation smarter and easier for everyone.\n\nHe's focused on consistent learning and practical application!",
+      "keywords": ["goals", "career", "future", "aim", "ambition", "aspirations", "vision", "target", "plan"]
+    },
+    "interests": {
+      "answer": "Nachiket is interested in:\n\n📊 Data analysis and visualization\n🤖 Machine learning & AI integration\n🌐 Full-stack web and app development\n⚙️ Backend APIs and database design\n💡 Competitive programming and logic building\n📚 Learning new technologies\n🗣️ Improving communication skills\n\nHe loves turning complex problems into elegant solutions!",
+      "keywords": ["interests", "hobbies", "likes", "passion", "passionate", "love", "enjoy"]
+    },
+    "personality": {
+      "answer": "Nachiket's personal traits:\n\n🧠 Logical and analytical mindset\n⚡ Fast learner with attention to detail\n🐛 Enjoys debugging and solving real-world tech problems\n📈 Focused on consistency, not shortcuts\n⚖️ Balances academic learning with practical projects\n💪 Self-motivated and determined\n\nHis motto: 'Keep building. Keep learning. Keep evolving — even when no one's watching.'",
+      "keywords": ["personality", "traits", "character", "nature", "qualities", "strengths", "attitude"]
+    },
+    "backend": {
+      "answer": "Nachiket has strong backend skills! ⚙️\n\nTechnologies:\n• Node.js & Express.js for server-side development\n• MySQL & MongoDB for databases\n• RESTful API design and integration\n• Authentication systems (JWT, sessions)\n• Secure transaction protocols\n• E-commerce backend architecture\n\nHe completed a Backend Development course from PW Skills focusing on production-ready systems!",
+      "keywords": ["backend", "server", "api", "node", "nodejs", "express", "database", "mysql", "mongodb"]
+    },
+    "frontend": {
+      "answer": "Nachiket builds beautiful frontends! 🎨\n\nSkills:\n• React & React Native (Expo) for web and mobile\n• HTML5 & CSS3 for structure and styling\n• Responsive UI development\n• Modern design principles\n• Animation and interactivity\n\nWhile Data Science is his primary focus, he enjoys creating sleek and efficient interfaces that merge analytical thinking with creative design!",
+      "keywords": ["frontend", "front-end", "ui", "react", "web", "design", "interface", "responsive"]
+    },
+    "languages": {
+      "answer": "Nachiket is proficient in multiple programming languages:\n\n🔧 C - Strong fundamentals\n🐍 Python - Primary for Data Science\n☕ Java - OOP and algorithms\n📜 JavaScript - Web development\n💙 TypeScript - Type-safe development\n🗃️ SQL - Database queries and analysis\n\nEach language serves different purposes in his full-stack and data science journey!",
+      "keywords": ["languages", "programming", "code", "coding", "python", "java", "javascript", "typescript", "c language"]
+    },
+    "contact": {
+      "answer": "You can reach Nachiket through:\n\n📧 Email: nachiket.chavan@example.com\n💼 LinkedIn: linkedin.com/in/nachiket-chavan\n🐙 GitHub: github.com/nachiket\n📸 Instagram: instagram.com/nyash\n🐦 Twitter: twitter.com/nyash\n📍 Location: Karnataka, India\n\nFeel free to scroll down to the Contact section to send a direct message!",
+      "keywords": ["contact", "reach", "email", "social", "get in touch", "connect", "message", "dm"]
+    },
+    "resume": {
+      "answer": "You can download Nachiket's resume by clicking the 'Download Resume' button in the Hero section or Contact section. The resume is auto-generated with all his latest:\n\n✅ Skills and technologies\n✅ Projects and achievements\n✅ Certifications\n✅ Education and journey\n\nIt's a professionally formatted PDF ready for sharing!",
+      "keywords": ["resume", "cv", "download", "curriculum vitae", "pdf"]
+    },
+    "hire": {
+      "answer": "Nachiket is open to opportunities! 🚀\n\nAvailable for:\n✅ Internships (Data Science / Full-Stack Development)\n✅ Freelance projects\n✅ Collaborative development work\n✅ Research and learning opportunities\n\nHe's passionate about working on impactful projects that involve data analysis, AI, or full-stack development. Reach out via the contact form or email!",
+      "keywords": ["hire", "available", "freelance", "work together", "collaborate", "job", "internship", "opportunity"]
+    },
+    "location": {
+      "answer": "Nachiket is based in Karnataka, India 🇮🇳\n\nHe's currently studying BCA at Sharanbasava University and is open to remote work opportunities worldwide!",
+      "keywords": ["location", "where", "based", "from", "live", "india", "karnataka"]
+    },
+    "motto": {
+      "answer": "Nachiket's motto is:\n\n💭 'Keep building. Keep learning. Keep evolving — even when no one's watching.'\n\nHe believes learning never ends and every line of code teaches something new. He's focused on consistency and continuous improvement!",
+      "keywords": ["motto", "quote", "philosophy", "belief", "principle", "mantra"]
+    },
+    "competitive programming": {
+      "answer": "Nachiket actively participates in competitive programming! 💻\n\nFocus areas:\n• Recursion and dynamic programming\n• Sorting algorithms and optimization\n• Problem-solving in C, Java, and TypeScript\n• Algorithmic thinking and performance\n\nHe uses competitive programming to strengthen his logic and analytical skills!",
+      "keywords": ["competitive", "programming", "cp", "algorithms", "contests", "leetcode", "hackerrank", "codechef"]
+    },
+    "certifications": {
+      "answer": "Nachiket holds several certifications:\n\n📜 MERN Stack Web Development\n📜 Programming in C and Java\n📜 Data Science Fundamentals\n📜 Backend Development (PW Skills)\n📜 Secure Transaction Protocols & E-Commerce\n\nPlus he participated in Smart India Hackathon 2025! Check the Achievements section for more details.",
+      "keywords": ["certifications", "certificates", "certified", "credentials", "courses", "training"]
+    },
+    "university": {
+      "answer": "Nachiket is pursuing BCA (Bachelor of Computer Applications) at Sharanbasava University.\n\nHe joined in 2024 and has been actively:\n✅ Learning programming fundamentals\n✅ Building practical projects\n✅ Getting certified in multiple technologies\n✅ Participating in hackathons\n✅ Balancing academics with hands-on development\n\nHe's focused on becoming a Data Scientist while building strong full-stack skills!",
+      "keywords": ["university", "college", "sharanbasava", "bca", "campus", "studying"]
+    },
+    "why data science": {
+      "answer": "Data Science is Nachiket's PRIMARY passion because:\n\n🎯 He loves finding insights hidden in data\n🧠 Enjoys analytical and logical thinking\n🤖 Fascinated by how AI and ML can solve real problems\n📊 Wants to extract meaningful information from datasets\n🌍 Believes data-driven decisions shape the future\n\nHis goal is to become a Data Scientist who handles real-world datasets and builds intelligent systems!",
+      "keywords": ["why data", "why data science", "reason", "passion", "primary", "main"]
+    },
+    "learning": {
+      "answer": "Nachiket is a continuous learner! 📚\n\nCurrently learning:\n• Advanced Data Science (ML algorithms)\n• MongoDB (deeper database skills)\n• AI integration in applications\n• Advanced backend architecture\n\nHis approach: Learning never ends, every line of code teaches something new. He focuses on practical application alongside theoretical knowledge!",
+      "keywords": ["learning", "studying", "currently", "now", "practice", "improve"]
+    },
+    "best project": {
+      "answer": "Nachiket's best projects are:\n\n🥇 Full-Stack Mobile App (React Native + Node.js + MySQL)\n- Complete user management system\n- Secure authentication\n- Cloud storage with Cloudinary\n- Production-ready architecture\n\n🥇 AI-Powered Portfolio (This website!)\n- Modern animations with Framer Motion\n- Integrated AI chatbot (that's me! 😊)\n- Auto-generated resume\n\nBoth showcase his full-stack capabilities and attention to detail!",
+      "keywords": ["best project", "favorite project", "top project", "proudest", "best work"]
+    },
+    "default": {
+      "answer": "That's a great question! 🤔 While I might not have all the details on that specific topic right now, I'm constantly learning about Nachiket.\n\nYou can ask me about:\n• His skills and technologies\n• Projects and achievements\n• Education and journey\n• Career goals and interests\n• How to contact him\n\nOr feel free to explore the portfolio sections to discover more! If you need specific information, you can reach out to Nachiket directly through the contact form.",
+      "keywords": []
+    }
+  }
+}
