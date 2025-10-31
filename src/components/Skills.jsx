@@ -5,7 +5,7 @@ import skillsData from '../data/skills.json';
 
 const Skills = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, margin: "-100px", amount: 0.3 });
+  const isInView = useInView(ref, { once: false, margin: "-50px", amount: 0.1 });
   const [activeCategory, setActiveCategory] = useState('Frontend');
 
   const categories = Object.keys(skillsData.categories);
