@@ -6,7 +6,7 @@ import achievementsData from '../data/achievements.json';
 
 const Achievements = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, margin: "-50px", amount: 0.1 });
+  const isInView = useInView(ref, { once: false, margin: "0px", amount: 0 });
   const [selectedCert, setSelectedCert] = useState(null);
 
   return (
@@ -14,7 +14,7 @@ const Achievements = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={isInView ? { opacity: 1, y: 0 } : {}}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           className="max-w-7xl mx-auto"
         >
@@ -32,7 +32,7 @@ const Achievements = () => {
               <motion.div
                 key={cert.id}
                 initial={{ opacity: 0, scale: 0.9 }}
-                animate={isInView ? { opacity: 1, scale: 1 } : {}}
+                animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 whileHover={{ scale: 1.05 }}
                 onClick={() => setSelectedCert(cert)}
@@ -127,3 +127,4 @@ const Achievements = () => {
 };
 
 export default Achievements;
+
