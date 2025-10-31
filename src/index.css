@@ -337,16 +337,9 @@ body.dark .glass {
     padding: 0.75rem 1.5rem;
   }
   
-  /* Remove hover effects on touch devices */
+  /* Reduce hover effects on touch devices but keep animations */
   .card-hover:hover {
-    transform: none;
-  }
-  
-  /* Disable animations that conflict with touch scrolling */
-  * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
+    transform: translateY(-4px) scale(1.01);
   }
 }
 
