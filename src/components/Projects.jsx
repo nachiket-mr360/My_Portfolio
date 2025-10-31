@@ -6,7 +6,7 @@ import projectsData from '../data/projects.json';
 
 const Projects = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, margin: "-100px", amount: 0.2 });
+  const isInView = useInView(ref, { once: false, margin: "-50px", amount: 0.1 });
   const [filter, setFilter] = useState('all');
 
   const filteredProjects = filter === 'all' 
