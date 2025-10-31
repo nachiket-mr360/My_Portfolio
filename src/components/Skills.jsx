@@ -5,7 +5,7 @@ import skillsData from '../data/skills.json';
 
 const Skills = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, margin: "-50px", amount: 0.1 });
+  const isInView = useInView(ref, { once: false, margin: "0px", amount: 0 });
   const [activeCategory, setActiveCategory] = useState('Frontend');
 
   const categories = Object.keys(skillsData.categories);
@@ -16,7 +16,7 @@ const Skills = () => {
       <div className="container mx-auto px-4 sm:px-6">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={isInView ? { opacity: 1, y: 0 } : {}}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           className="max-w-6xl mx-auto"
         >
@@ -59,7 +59,7 @@ const Skills = () => {
               <motion.div
                 key={skill.name}
                 initial={{ opacity: 0, scale: 0.9 }}
-                animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.9 }}
+                animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 whileHover={{ y: -10, rotateY: 5 }}
                 className="group"
@@ -132,3 +132,4 @@ const Skills = () => {
 };
 
 export default Skills;
+
