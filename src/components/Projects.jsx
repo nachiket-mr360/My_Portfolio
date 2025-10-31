@@ -6,7 +6,7 @@ import projectsData from '../data/projects.json';
 
 const Projects = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, margin: "-50px", amount: 0.1 });
+  const isInView = useInView(ref, { once: false, margin: "0px", amount: 0 });
   const [filter, setFilter] = useState('all');
 
   const filteredProjects = filter === 'all' 
@@ -18,7 +18,7 @@ const Projects = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={isInView ? { opacity: 1, y: 0 } : {}}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           className="max-w-7xl mx-auto"
         >
@@ -64,7 +64,7 @@ const Projects = () => {
               <motion.div
                 key={project.id}
                 initial={{ opacity: 0, y: 50 }}
-                animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
+                animate={isInView ? { opacity: 1, y: 0 } : { opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
                 whileHover={{ y: -15, rotateY: 2 }}
                 className="group relative bg-gray-50 dark:bg-gray-800 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all"
@@ -153,3 +153,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
