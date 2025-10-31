@@ -302,6 +302,14 @@ body.dark .glass {
     font-size: 1.5rem !important;
   }
   
+  /* Ensure sections are always visible on mobile */
+  section {
+    min-height: auto !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+  
   /* Make cards stack on mobile */
   .grid {
     grid-template-columns: 1fr !important;
@@ -318,6 +326,37 @@ body.dark .glass {
   img {
     max-width: 100%;
     height: auto;
+  }
+  
+  /* Ensure all motion divs are visible */
+  [class*="motion"] {
+    opacity: 1 !important;
+  }
+}
+
+/* Extra small devices (phones below 480px) */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.75rem !important;
+  }
+  
+  h2 {
+    font-size: 1.5rem !important;
+  }
+  
+  h3 {
+    font-size: 1.25rem !important;
+  }
+  
+  /* Even more compact spacing */
+  section {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+  }
+  
+  .container {
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
   }
 }
 
@@ -364,12 +403,18 @@ body.dark .glass {
   }
 }
 
-/* Reduced motion */
+/* Reduced motion - but keep content visible */
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
+  }
+  
+  /* Ensure content is always visible even with reduced motion */
+  section, div, article {
+    opacity: 1 !important;
+    transform: none !important;
   }
 }
 
@@ -415,5 +460,8 @@ button[aria-label="Toggle chatbot"],
     right: 1.5rem !important;
   }
 }
+
+
+
 
 
