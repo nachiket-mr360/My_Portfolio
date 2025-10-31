@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="light">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/My_Portfolio/vite.svg" />
@@ -8,8 +8,16 @@
     <meta name="keywords" content="portfolio, web developer, react, nachiket, nyash" />
     <meta name="author" content="Nachiket" />
     <title>Nachiket Portfolio | Web Developer & BCA Student</title>
-    <script type="module" crossorigin src="/My_Portfolio/assets/index-DbdvvbCR.js"></script>
-    <link rel="stylesheet" crossorigin href="/My_Portfolio/assets/index-C09BiVO5.css">
+    <script>
+      // Prevent FOUC - Apply theme immediately
+      (function() {
+        const theme = localStorage.getItem('theme') || 'light';
+        document.documentElement.classList.add(theme);
+        document.documentElement.style.colorScheme = theme;
+      })();
+    </script>
+    <script type="module" crossorigin src="/My_Portfolio/assets/index-CHUHDP2I.js"></script>
+    <link rel="stylesheet" crossorigin href="/My_Portfolio/assets/index-DTQaVjkF.css">
   </head>
   <body>
     <div id="root"></div>
