@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Smart Education System",
+      "description": "A web + mobile platform to centralize all academic, co-curricular, and extracurricular records. Role-based access: Students upload activities & certificates → Faculty validate → Admins generate institutional reports. Auto-generated digital portfolio (PDF/shareable link) for placements, scholarships, and higher studies. Gamified dashboard with points, badges, and leaderboards to encourage participation.",
+      "image": "https://images.pexels.com/photos/4145355/pexels-photo-4145355.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["React", "Tailwind CSS", "PHP", "SQL"],
+      "github": "https://github.com/nachiket/portfolio",
+      "demo": "https://nachiket-portfolio.vercel.app",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Personal Portfolio Website",
+      "description": "A responsive, visually appealing personal website showcasing my skills, projects, and academic journey. Designed with a clean UI/UX focus to highlight professional growth and achievements effectively.",
+      "image": "https://images.pexels.com/photos/11035371/pexels-photo-11035371.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["React", "Node.js", "MySQL", "Express.js", "JavaScript ES6+"],
+      "github": "https://github.com/nachiket/mobile-app",
+      "demo": "#",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Digital Health Record Management System",
+      "description": "Smart India Hackathon 2025 project focused on creating a Digital Health Record Management system for migrant workers in Kerala. Built with team collaboration focusing on accessibility and data security. The system allows for easy record management, secure data storage, and efficient access for healthcare providers.",
+      "image": "https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "JavaScript ES6+"],
+      "github": "https://github.com/nachiket/health-record-system",
+      "demo": "#",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Data Science Practice Projects (On Going)",
+      "description": "Collection of data science projects exploring data visualization, dataset cleaning, and Python-based analysis using Pandas, NumPy, and Matplotlib. Includes exploratory data analysis and insightful visualizations.",
+      "image": "https://images.pexels.com/photos/669622/pexels-photo-669622.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"],
+      "github": "https://github.com/nachiket/data-science-projects",
+      "demo": "#",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "Competitive Programming Solutions",
+      "description": "Collection of algorithmic problem-solving solutions focused on recursion, sorting algorithms, and optimization challenges. Solved in C, Java, and TypeScript to strengthen logic and performance skills.",
+      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["C", "Java", "TypeScript", "Algorithms"],
+      "github": "https://github.com/nachiket/competitive-programming",
+      "demo": "#",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "E-Commerce Backend System (On Going)",
+      "description": "Backend development project focusing on secure transactions and e-commerce systems. Built during PW Skills Backend Development course with emphasis on authentication, payment processing, and API security.",
+      "image": "https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Node.js", "Express.js", "MySQL", "JWT", "Payment APIs"],
+      "github": "https://github.com/nachiket/ecommerce-backend",
+      "demo": "#",
+      "featured": false
+    }
+  ]
+}

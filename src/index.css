@@ -1,0 +1,54 @@
+/* stylelint-disable at-rule-no-unknown */
+/* Tailwind directives — leave as-is for Tailwind processor */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Skill progress shimmer and gradient */
+.skill-bar {
+	height: 0.75rem; /* h-3 */
+	border-radius: 9999px; /* rounded-full */
+	overflow: hidden;
+	position: relative;
+}
+.skill-bar-track {
+	width: 100%;
+	background: #e5e7eb; /* bg-gray-200 */
+	border-radius: 9999px;
+	height: 100%;
+}
+.dark .skill-bar-track {
+	background: #374151; /* dark:bg-gray-700 */
+}
+.skill-bar-fill {
+	height: 100%;
+	border-radius: 9999px;
+	background: linear-gradient(90deg, rgba(37,99,235,1) 0%, rgba(14,165,233,1) 50%, rgba(99,102,241,1) 100%);
+}
+.shimmer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 40%;
+	background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.35) 50%, rgba(255,255,255,0) 100%);
+	transform: translateX(-120%);
+	animation: shimmer 1.8s infinite;
+}
+@keyframes shimmer {
+	100% { transform: translateX(220%); }
+}
+
+/* subtle card hover */
+.skill-card-hover:hover {
+	transform: translateY(-6px) scale(1.01);
+}
+
+/* Gradient text utility */
+.text-gradient {
+	background: linear-gradient(90deg, #6366f1, #06b6d4, #ec4899);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	color: transparent;
+}

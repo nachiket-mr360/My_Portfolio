@@ -1,0 +1,51 @@
+{
+  "categories": {
+    "Languages": [
+      { "name": "C", "level": 85, "icon": "🔧" },
+      { "name": "Python", "level": 90, "icon": "🐍" },
+      { "name": "Java", "level": 80, "icon": "☕" },
+      { "name": "JavaScript", "level": 88, "icon": "📜" },
+      { "name": "TypeScript", "level": 70, "icon": "💙" },
+      { "name": "SQL", "level": 82, "icon": "🗄️" }
+    ],
+    "Frontend": [
+      { "name": "React", "level": 85, "icon": "⚛️" },
+      { "name": "React Native (Expo)", "level": 80, "icon": "📱" },
+      { "name": "HTML5", "level": 95, "icon": "🌐" },
+      { "name": "CSS3", "level": 90, "icon": "💅" },
+      { "name": "Responsive UI Development", "level": 88, "icon": "📱" }
+    ],
+    "Backend & Database": [
+      { "name": "Node.js", "level": 85, "icon": "🟢" },
+      { "name": "Express.js", "level": 82, "icon": "🚂" },
+      { "name": "MySQL", "level": 85, "icon": "🐬" },
+      { "name": "MongoDB", "level": 65, "icon": "🍃" },
+      { "name": "API Integration", "level": 88, "icon": "🔌" },
+      { "name": "Authentication Systems", "level": 85, "icon": "🔐" }
+    ],
+    "Data Science": [
+      { "name": "Python (Data Science)", "level": 90, "icon": "🐍" },
+      { "name": "NumPy", "level": 75, "icon": "🔢" },
+      { "name": "Pandas", "level": 70, "icon": "🐼" },
+      { "name": "Matplotlib", "level": 72, "icon": "📊" },
+      { "name": "Seaborn", "level": 70, "icon": "📈" },
+      { "name": "Jupyter Notebook", "level": 80, "icon": "📓" },
+      { "name": "Tableau", "level": 68, "icon": "📊" },
+      { "name": "SQL for Data Analysis", "level": 82, "icon": "📈" },
+      { "name": "Excel (Data Analysis)", "level": 85, "icon": "📊" },
+      { "name": "Power BI", "level": 60, "icon": "📉" },
+      { "name": "Scikit-learn", "level": 65, "icon": "🤖" },
+      { "name": "Data Visualization", "level": 75, "icon": "📉" }
+    ],
+    "Tools & Platforms": [
+      { "name": "VS Code", "level": 95, "icon": "💻" },
+      { "name": "GitHub", "level": 70, "icon": "🐙" },
+      { "name": "Postman", "level": 75, "icon": "📮" },
+      { "name": "Firebase", "level": 75, "icon": "🔥" },
+      { "name": "Cloudinary", "level": 60, "icon": "☁️" },
+      { "name": "MongoDB Compass", "level": 85, "icon": "🧭" },
+      { "name": "Canva", "level": 70, "icon": "🎨" },
+      { "name": "Figma", "level": 70, "icon": "🖌️" }
+    ]
+  }
+}

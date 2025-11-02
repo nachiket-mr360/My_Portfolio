@@ -1,0 +1,111 @@
+{
+  "greetings": [
+    {
+      "triggers": ["hi", "hello", "hey", "namaste", "greetings"],
+      "answer": "Hello! 👋 I'm Nyash's AI Twin — Nachiket's digital assistant. I can help you explore his skills, education, projects, and journey!"
+    }
+  ],
+  "questions": [
+    {
+      "triggers": ["who are you", "what are you", "ai", "chatbot", "bot"],
+      "answer": "I'm Nyash's AI Twin! 🤖 I represent Nachiket Chavan — a BCA student passionate about Data Science and Full-Stack Development. Ask me anything about him!"
+    },
+    {
+      "triggers": ["who is nyash", "who is nachiket", "about nyash", "about nachiket", "nachiket chavan"],
+      "answer": "Nachiket Chavan (Nyash) is a BCA student at Sharanbasava University with a strong passion for Data Science and Full-Stack Development. He's skilled in C, Python, JavaScript, TypeScript, and SQL."
+    },
+    {
+      "triggers": ["education", "study", "college", "university", "school"],
+      "answer": "Nachiket is pursuing BCA at Sharanbasava University. He completed SSLC in 2021, PUC Science (2021–2023), and now focuses on Data Science and Full-Stack projects."
+    },
+    {
+      "triggers": ["skills", "technologies", "tech stack", "frameworks", "tools"],
+      "answer": "Nachiket’s skills include:\n💻 Languages: C, Python, Java, JavaScript, TypeScript, SQL\n🎨 Frontend: React, React Native, HTML, CSS\n⚙️ Backend: Node.js, Express.js, MySQL, MongoDB\n📊 Data Science: NumPy, Pandas, Matplotlib\n🛠️ Tools: GitHub, Postman, Firebase, Cloudinary, Figma, Canva"
+    },
+    {
+      "triggers": ["projects", "portfolio", "apps", "applications"],
+      "answer": "Projects by Nachiket include:\n🤖 AI-Powered Portfolio (React + Tailwind + Framer Motion)\n📱 Full-Stack Mobile App (React Native + Node.js + MySQL)\n🏥 Digital Health Record System (SIH 2025)\n📊 Data Science Visualizations\n🛒 E-Commerce Backend"
+    },
+    {
+      "triggers": ["hackathon", "sih", "smart india", "competition"],
+      "answer": "Nachiket participated in Smart India Hackathon 2025, developing a Digital Health Record System for migrant workers — focusing on data security and healthcare accessibility."
+    },
+    {
+      "triggers": ["mobile app", "react native", "expo", "full stack"],
+      "answer": "He built a Full-Stack Mobile App using React Native (Expo), Node.js, MySQL, and Cloudinary — with user management, authentication, and document storage."
+    },
+    {
+      "triggers": ["achievements", "certificates", "awards", "certified"],
+      "answer": "Achievements:\n🥇 SIH 2025 Participant\n📜 MERN Stack Certification\n📜 Programming in C & Java\n📜 Data Science Fundamentals\n📜 Backend Development (PW Skills)"
+    },
+    {
+      "triggers": ["goals", "career", "future", "vision", "ambition"],
+      "answer": "Career Goals:\n🎯 Primary: Become a Data Scientist\n🎯 Secondary: Full-Stack Developer\n🎯 Vision: Build AI-powered platforms that make learning and automation smarter for everyone."
+    },
+    {
+      "triggers": ["interests", "hobbies", "passion"],
+      "answer": "Interests include Data Science, Machine Learning, Full-Stack Development, Backend APIs, Competitive Programming, and improving communication skills."
+    },
+    {
+      "triggers": ["personality", "traits", "character", "qualities"],
+      "answer": "Personality Traits:\n🧠 Logical & Analytical\n⚡ Fast Learner\n🐛 Enjoys Debugging\n💪 Self-Motivated\n📈 Focused on consistency, not shortcuts."
+    },
+    {
+      "triggers": ["backend", "server", "api", "database"],
+      "answer": "Backend Skills:\n• Node.js & Express.js\n• MySQL & MongoDB\n• REST API Design\n• Authentication (JWT)\n• E-commerce backend architecture"
+    },
+    {
+      "triggers": ["frontend", "ui", "design", "interface", "react"],
+      "answer": "Frontend Skills:\n• React & React Native\n• HTML5, CSS3, Tailwind CSS\n• Responsive UI\n• Modern animations with Framer Motion"
+    },
+    {
+      "triggers": ["languages", "coding", "python", "java", "javascript", "typescript"],
+      "answer": "Programming Languages:\n🔧 C (basics)\n🐍 Python (Data Science)\n☕ Java (OOP)\n📜 JavaScript & TypeScript (Web Dev)\n🗃️ SQL (Database)"
+    },
+    {
+      "triggers": ["contact", "email", "social", "reach"],
+      "answer": "Contact Nachiket:\n📧 nachiket.chavan@example.com\n💼 linkedin.com/in/nachiket-chavan\n🐙 github.com/nachiket\n📸 instagram.com/nyash\n📍 Karnataka, India"
+    },
+    {
+      "triggers": ["resume", "cv", "download"],
+      "answer": "You can download Nachiket's resume using the 'Download Resume' button in the Hero or Contact section."
+    },
+    {
+      "triggers": ["hire", "freelance", "job", "internship", "opportunity"],
+      "answer": "Nachiket is open to internships, freelance projects, and collaborative work in Data Science or Full-Stack Development."
+    },
+    {
+      "triggers": ["location", "where", "based", "live", "india", "karnataka"],
+      "answer": "Nachiket is based in Karnataka, India 🇮🇳 and open to remote opportunities globally."
+    },
+    {
+      "triggers": ["motto", "quote", "principle"],
+      "answer": "Motto: 'Keep building. Keep learning. Keep evolving — even when no one's watching.'"
+    },
+    {
+      "triggers": ["competitive programming", "cp", "algorithms", "contests"],
+      "answer": "He practices competitive programming in C, Java, and TypeScript — focusing on recursion, optimization, and algorithmic problem-solving."
+    },
+    {
+      "triggers": ["certifications", "courses", "training"],
+      "answer": "Certifications:\n📜 MERN Stack Development\n📜 Programming in C & Java\n📜 Data Science Fundamentals\n📜 Backend Development (PW Skills)"
+    },
+    {
+      "triggers": ["university", "college", "bca", "sharanbasava"],
+      "answer": "Nachiket studies BCA at Sharanbasava University (joined 2024). He’s active in hackathons, certifications, and building practical projects."
+    },
+    {
+      "triggers": ["why data science", "why data", "reason", "main passion"],
+      "answer": "He loves Data Science because it reveals insights from data and powers real-world AI systems. Data-driven decisions inspire him!"
+    },
+    {
+      "triggers": ["learning", "currently learning", "studying now"],
+      "answer": "Currently learning:\n• Machine Learning Algorithms\n• MongoDB (Advanced)\n• AI Integration\n• Backend Architecture"
+    },
+    {
+      "triggers": ["best project", "top project", "favorite project"],
+      "answer": "Best Projects:\n🥇 Full-Stack Mobile App (React Native + Node.js + MySQL)\n🥇 AI-Powered Portfolio (React + Tailwind + Framer Motion)"
+    }
+  ],
+  "fallback": "I'm not sure I understand that question. 🤔 You can ask me about Nachiket's skills, projects, education, achievements, or career goals!"
+}

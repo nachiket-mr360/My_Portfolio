@@ -1,0 +1,64 @@
+{
+  "name": "Nachiket Chavan",
+  "title": "BCA Student | Aspiring Data Scientist & Full-Stack Developer",
+  "tagline": "I love finding insights in data and building intelligent, real-world applications that connect information, logic, and people.",
+  "bio": "BCA student at Sharanbasava University with a passion for Data Science and Full-Stack Development. I work with Python, JavaScript, and SQL to explore how data and AI power smarter systems. My focus: extracting insights from data while building efficient applications that merge logic with creativity.",
+  "quote": "Keep building. Keep learning. Keep evolving — even when no one's watching. 💻",
+  "avatar": "/C:/cursor/project/src/data/photo.jpg",
+  "email": "nachiketmr.360@gmail.com",
+  "phone": "+918217204054",
+  "location": "Karnataka, India",
+  "university": "Sharanbasava University",
+  "degree": "Bachelor of Computer Applications (BCA)",
+  "timeline": [
+    {
+      "year": "2021",
+      "title": "Completed SSLC",
+      "description": "Foundation years of learning and curiosity about technology."
+    },
+    {
+      "year": "2023",
+      "title": "Completed PUC Science",
+      "description": "Built strong fundamentals in logic, problem-solving, and analytical thinking."
+    },
+    {
+      "year": "2024",
+      "title": "Started BCA Journey",
+      "description": "Joined BCA at Sharanbasava University. Began coding with C, Python, HTML, CSS, JavaScript. Started building mini web projects and explored frontend + backend basics. Certified in MERN Stack, Programming in C & Java, and Data Science."
+    },
+    {
+      "year": "2025",
+      "title": "Smart India Hackathon & Advanced Projects",
+      "description": "Participated in Smart India Hackathon 2025 (Digital Health Record System). Built Full-Stack Mobile App with React Native + Node.js + MySQL. Started learning Data Science seriously with Python, Pandas, NumPy, and Matplotlib."
+    }
+  ],
+  "social": {
+    "github": "https://github.com/nachiket-mr360",
+    "linkedin": "https://www.linkedin.com/in/nachiket-mr360/",
+    "instagram": "https://www.instagram.com/nachiket_mr.360"
+  },
+  "careerGoals": [
+    "Become a Data Scientist capable of handling real-world datasets and extracting insights through AI and machine learning.",
+    "As a secondary path, become a Full-Stack Developer skilled in scalable backend and interactive frontend systems.",
+    "Build AI-powered platforms that make learning, communication, and automation smarter and easier for everyone."
+  ],
+  "traits": [
+    "Logical and analytical mindset",
+    "Fast learner with attention to detail",
+    "Enjoys debugging and solving real-world tech problems",
+    "Focused on consistency, not shortcuts",
+    "Balances academic learning with practical projects"
+  ],
+  "interests": [
+    "Data analysis and visualization",
+    "Machine learning & AI integration",
+    "Full-stack web and app development",
+    "Backend APIs and database design",
+    "Competitive programming and logic building",
+    "Learning new technologies and improving communication"
+  ]
+  ,
+    "image": "C:/cursor/project/src/data/photo.jpg"
+
+    
+}

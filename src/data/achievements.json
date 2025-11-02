@@ -1,0 +1,49 @@
+{
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Backend Development Course",
+      "issuer": "PW Skills",
+      "date": "2024-03",
+      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Focused on secure transaction protocols, e-commerce systems, API development, authentication mechanisms, and database design for production-ready applications.",
+      "credentialUrl": "https://pwskills.com/learn/certificate/c8cc42db-e629-4b55-b083-4a9e32c3456b/"
+    },
+     {
+      "id": 2,
+      "title": "MERN Stack Web Development",
+      "issuer": "Tutedude",
+      "date": "2024-11",
+      "image": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Comprehensive certification covering MongoDB, Express.js, React, and Node.js. Completed full-stack projects demonstrating proficiency in modern web development technologies.",
+      "credentialUrl": "https://upskill.tutedude.com/certificate/TD-NACH-ME-2341"
+    },
+     {
+      "id": 4,
+      "title": "Programming in C and Java",
+      "issuer": "Educational Institution",
+      "date": "2025-05",
+      "image": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Certification in fundamental programming concepts, data structures, algorithms, and object-oriented programming using C and Java languages.",
+      "credentialUrl": "http://moonshot.scaler.com/s/li/amZdtLf157"
+    },
+    {
+      "id": 3,
+      "title": "Decode Data Science With Machine Learning",
+      "issuer": "PW Skills",
+      "date": "2024-12",
+      "image": "https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Completed comprehensive course covering Python for data science, NumPy, Pandas, Matplotlib, data visualization, and exploratory data analysis techniques.",
+      "credentialUrl": "https://pwskills.com/learn/certificate/01693bbf-ffbc-4b6a-a981-dce7732e41ce/"
+    },
+    {
+      "id": 5,
+      "title": "Smart India Hackathon 2025 Participant",
+      "issuer": "Government of India",
+      "date": "2025-09",
+      "image": "https://images.pexels.com/photos/3184643/pexels-photo-3184643.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Worked on Digital Health Record Management system for migrant workers in Kerala. Collaborated with team to develop a comprehensive solution addressing healthcare accessibility and data management.",
+      "credentialUrl": "#"
+    }
+  ]
+}
