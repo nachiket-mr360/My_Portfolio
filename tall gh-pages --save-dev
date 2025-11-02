@@ -1,0 +1,47 @@
+[33mcommit d1e12884e96cd633914785a3acb7f510815a3a3f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: nachiket <nachiket360chavan@gmail.com>
+Date:   Mon Nov 3 00:12:50 2025 +0530
+
+    Initial portfolio commit
+
+.bolt/config.json
+.bolt/prompt
+.gitignore
+README.md
+eslint.config.js
+index.html
+package-lock.json
+package.json
+postcss.config.js
+src/App.tsx
+src/components/About.tsx
+src/components/Achievements.tsx
+src/components/AnimatedBackground.tsx
+src/components/AnimatedSection.tsx
+src/components/Chatbot.tsx
+src/components/Contact.tsx
+src/components/Hero.tsx
+src/components/NotFound.tsx
+src/components/Projects.tsx
+src/components/ResumeButton.tsx
+src/components/ResumeDocument.tsx
+src/components/ScrollProgress.tsx
+src/components/Skills.tsx
+src/components/ThemeToggle.tsx
+src/components/photo.jpg
+src/data/about.json
+src/data/achievements.json
+src/data/botData.json
+src/data/photo.jpg
+src/data/projects.json
+src/data/skills.json
+src/hooks/useScrollProgress.ts
+src/hooks/useTheme.ts
+src/index.css
+src/main.tsx
+src/vite-env.d.ts
+tailwind.config.js
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
