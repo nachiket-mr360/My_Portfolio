@@ -7,5 +7,5 @@ export default defineConfig({
   base: '/My_Portfolio/',
   optimizeDeps: {
     exclude: ['lucide-react'],
-  } // 👈 MUST have slashes on both sides
+  },
 });
