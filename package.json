@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nachiket-rm360.github.io/Portfolio/",
+  "homepage": "https://nachiket-rm360.github.io/Portfoli/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
