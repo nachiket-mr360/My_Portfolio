@@ -19,7 +19,7 @@ function App() {
   const { theme, toggleTheme } = useTheme();
   const scrollProgress = useScrollProgress();
 
-  const is404 = window.location.pathname !== '/';
+  const is404 = window.location.pathname !== '/Portfoli/' && window.location.pathname !== '/';
 
   if (is404) {
     return <NotFound />;
